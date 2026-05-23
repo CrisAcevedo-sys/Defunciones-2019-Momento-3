@@ -1,0 +1,38 @@
+﻿survey_idno,sid,file_id,vid,name,labl,var_intrvl,var_dcml,var_wgt,var_start_pos,var_end_pos,var_width,var_imputation,var_security,var_respunit,var_qstn_preqtxt,var_qstn_qstnlit,var_qstn_postqtxt,var_qstn_ivulnstr,var_universe,var_sumstat,var_txt,var_catgry,var_codinstr,var_concept,var_format,var_notes
+DANE-DCD-EEVV-2019,696,F23,V1338,COD_DPTO,"Departamento donde ocurrió la defunción",discrete,0,,,,,,"El acceso a microdatos y Mam-up se considera como de tratamiento especial respecto a la reserva estadística por tanto estará sujeto a la reglamentación que para el efecto defina el Comité de Aseguramiento de la reserva estadística. Resolución 173 de 2008.",,,"Departamento donde ocurrió la defunción
+
+05 = Antioquia
+08 = Atlántico
+11 = Bogotá
+13 = Bolivar
+15 = Boyaca
+17 = Caldas
+18 = Caqueta
+19 = Cauca
+20 = Cesar
+23 = Cordoba
+25 = Cundinamarca
+27 = Choco
+41 = Huila
+44 = La guajira
+47 = Magdalena
+50 = Meta
+52 = Nariño
+54 = Norte de Santander
+63 = Quindio
+66 = Risaralda
+68 = Santander
+70 = Sucre
+73 = Tolima
+76 = Valle del Cauca
+81 = Arauca
+85 = Casanare
+86 = Putumayo
+88 = Archipiélago de San Andrés, Providencia y Santa Catalina
+91 = Amazonas
+94 = Guainía
+95 = Guaviare
+97 = Vaupés
+99 = Vichada","Municipio donde ocurrió la defunción
+
+Municipio, según la División Político- Administrativa del DANE.",,"Hecho vital, nacido vivo o defunción, ocurrido en el territorio nacional en cada año calendario.","[{""value"":""0"",""type"":""vald"",""wgtd"":null},{""value"":""0"",""type"":""invd"",""wgtd"":null}]",,"[{""value"":""5"",""labl"":""Antioquia"",""is_missing"":null,""stats"":[]},{""value"":""8"",""labl"":""Atl\u00e1ntico"",""is_missing"":null,""stats"":[]},{""value"":""11"",""labl"":""Bogot\u00e1"",""is_missing"":null,""stats"":[]},{""value"":""13"",""labl"":""Bolivar"",""is_missing"":null,""stats"":[]},{""value"":""15"",""labl"":""Boyaca"",""is_missing"":null,""stats"":[]},{""value"":""17"",""labl"":""Caldas"",""is_missing"":null,""stats"":[]},{""value"":""18"",""labl"":""Caqueta"",""is_missing"":null,""stats"":[]},{""value"":""19"",""labl"":""Cauca"",""is_missing"":null,""stats"":[]},{""value"":""20"",""labl"":""Cesar"",""is_missing"":null,""stats"":[]},{""value"":""23"",""labl"":""Cordoba"",""is_missing"":null,""stats"":[]},{""value"":""25"",""labl"":""Cundinamarca"",""is_missing"":null,""stats"":[]},{""value"":""27"",""labl"":""Choco"",""is_missing"":null,""stats"":[]},{""value"":""41"",""labl"":""Huila"",""is_missing"":null,""stats"":[]},{""value"":""44"",""labl"":""La guajira"",""is_missing"":null,""stats"":[]},{""value"":""47"",""labl"":""Magdalena"",""is_missing"":null,""stats"":[]},{""value"":""50"",""labl"":""Meta"",""is_missing"":null,""stats"":[]},{""value"":""52"",""labl"":""Nari\u00f1o"",""is_missing"":null,""stats"":[]},{""value"":""54"",""labl"":""Norte de Santander"",""is_missing"":null,""stats"":[]},{""value"":""63"",""labl"":""Quindio"",""is_missing"":null,""stats"":[]},{""value"":""66"",""labl"":""Risaralda"",""is_missing"":null,""stats"":[]},{""value"":""68"",""labl"":""Santander"",""is_missing"":null,""stats"":[]},{""value"":""70"",""labl"":""Sucre"",""is_missing"":null,""stats"":[]},{""value"":""73"",""labl"":""Tolima"",""is_missing"":null,""stats"":[]},{""value"":""76"",""labl"":""Valle del Cauca"",""is_missing"":null,""stats"":[]},{""value"":""81"",""labl"":""Arauca"",""is_missing"":null,""stats"":[]},{""value"":""85"",""labl"":""Casanare"",""is_missing"":null,""stats"":[]},{""value"":""86"",""labl"":""Putumayo"",""is_missing"":null,""stats"":[]},{""value"":""88"",""labl"":""Archipi\u00e9lago de San Andr\u00e9s, Providencia y Santa Catalina"",""is_missing"":null,""stats"":[]},{""value"":""91"",""labl"":""Amazonas"",""is_missing"":null,""stats"":[]},{""value"":""94"",""labl"":""Guain\u00eda"",""is_missing"":null,""stats"":[]},{""value"":""95"",""labl"":""Guaviare"",""is_missing"":null,""stats"":[]},{""value"":""97"",""labl"":""Vaup\u00e9s"",""is_missing"":null,""stats"":[]},{""value"":""99"",""labl"":""Vichada"",""is_missing"":null,""stats"":[]}]",,[],"{""type"":""numeric"",""schema"":""other"",""category"":null,""name"":null}",
